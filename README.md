@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I'm Himesh Dua 👋
 
-<!--
-**HimeshDua/HimeshDua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> 17 y/o Full-Stack Developer | Web & AI Enthusiast | Karachi, Pakistan 🇵🇰
 
-Here are some ideas to get you started:
+I build high-quality, modern web apps — clean UI, powerful backend, and smooth UX.  
+My stack: **Next.js**, **React.js**, **Prisma ORM**, **Express.js**, **MongoDB**, **Tailwind**, and **TypeScript**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Tech Stack
+
+- 🧠 Languages: `JavaScript`, `TypeScript`, `PHP`
+- 🌐 Frontend: `React`, `Next.js`, `Tailwind CSS`, `Shadcn UI`
+- 🔧 Backend: `Node.js`, `Express`, `Next.js API`, `Firebase`, `Prisma`, `Auth.js`, `NextAuth`
+- 💾 Database: `MongoDB`, `PostgreSQL`, `Neon DB`, `MySQL`
+- 🧩 Tools: `VS Code`, `Git`, `Vercel`
+
+---
+
+### 🛠️ Recent Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| [Decision Dex](https://decisiondex.vercel.app) | Decision helper with pros/cons and analytics | Next.js 15, Prisma, NextAuth, Shadcn |
+| [Streaksvr](https://streaksvr.vercel.app) | Full-stack streak tracker with task-streak algorithm | Next.js, Prisma, Firebase Auth, Shadcn |
+| [Resserve](https://resserve.vercel.app) | Time reservation & self-accountability platform | Next.js, Prisma, NextAuth, Shadcn |
+
+---
+
+### 📈 GitHub Stats
+
+![Himesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HimeshDua&show_icons=true&theme=radical&hide=stars&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HimeshDua&layout=compact&theme=radical)
+
+---
+
+### 📫 Let's Connect
+
+- 📧 Email: `himeshcancode@gmail.com`
+- 🧠 [LinkedIn](https://www.linkedin.com/in/himeshdua)
+- 💻 [Portfolio](https://himeshdua.vercel.app)
+
+---
+
+> “Discipline beats talent — I’m here every day, building better.”  
+> — Himesh Dua
