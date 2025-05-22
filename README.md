@@ -10,8 +10,8 @@ My stack: **Next.js**, **React.js**, **Prisma ORM**, **Express.js**, **MongoDB**
 ### 🚀 Tech Stack
 
 - 🧠 Languages: `JavaScript`, `TypeScript`, `PHP`
-- 🌐 Frontend: `React`, `Next.js`, `Tailwind CSS`, `Shadcn UI`
-- 🔧 Backend: `Node.js`, `Express`, `Next.js API`, `Firebase`, `Prisma`, `Auth.js`, `NextAuth`
+- 🌐 Frontend: `React`, `Next.js`, `Laravel` , `Tailwind CSS`, `Shadcn UI`
+- 🔧 Backend: `Laravel`, `Node.js`, `Express`, `Next.js API`, `Firebase`, `Prisma`, `Auth.js`, `NextAuth`
 - 💾 Database: `MongoDB`, `PostgreSQL`, `Neon DB`, `MySQL`
 - 🧩 Tools: `VS Code`, `Git`, `Vercel`
 
