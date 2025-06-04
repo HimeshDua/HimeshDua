@@ -28,13 +28,6 @@ My stack: **Next.js**, **React.js**, **Prisma ORM**, **Express.js**, **MongoDB**
 
 ---
 
-### 📈 GitHub Stats
-
-![Himesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HimeshDua&show_icons=true&theme=radical&hide=stars&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HimeshDua&layout=compact&theme=radical)
-
----
 
 ### 📫 Let's Connect
 
