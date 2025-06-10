@@ -31,7 +31,7 @@ My stack: **Next.js**, **React.js**, **Prisma ORM**, **Express.js**, **MongoDB**
 
 ### 📫 Let's Connect
 
-- 📧 Email: `himeshcancode@gmail.com`
+- 📧 Email: `himeshdua22@gmail.com`
 - 🧠 [LinkedIn](https://www.linkedin.com/in/himeshdua)
 - 💻 [Portfolio](https://himeshdua.vercel.app)
 
