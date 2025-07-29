@@ -1,6 +1,6 @@
 # Hi, I'm Himesh Dua 👋
 
-> 17 y/o Full-Stack Developer | Web & AI Enthusiast | Karachi, Pakistan 🇵🇰
+> Full-Stack Developer | Web & AI Enthusiast | Karachi, Pakistan 🇵🇰
 
 I build high-quality, modern web apps — clean UI, powerful backend, and smooth UX.  
 My stack: **Next.js**, **React.js**, **Prisma ORM**, **Express.js**, **MongoDB**, **Tailwind**, and **TypeScript**.
