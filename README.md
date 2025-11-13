@@ -11,7 +11,9 @@ I work mostly with **TypeScript** and **Next.js**, think of them as tools that h
 ![Himesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=HimeshDua&show_icons=true&theme=radical)
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HimeshDua&theme=dracula)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HimeshDua&theme=default&utcOffset=8)
+### ⏰ When I Code Most
+
+![Metrics](https://github.com/HimeshDua/HimeshDua/blob/main/github-metrics.svg)
 
 <details>
 <summary>Peek into my coding life</summary>
