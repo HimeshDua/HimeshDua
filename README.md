@@ -7,10 +7,7 @@ I work mostly with **TypeScript** and **Next.js**, think of them as tools that h
 
 ### 🤝 Let's Connect
 
-✉️ [`himeshdua22@gmail.com`](mailto:himeshdua22@gmail.com)  
-🌐 [Portfolio](https://himeshdua.vercel.app)  
-💼 [LinkedIn](https://www.linkedin.com/in/HimeshDua)  
-📁 [GitHub](https://github.com/HimeshDua)
+✉️ [`himeshdua22@gmail.com`](mailto:himeshdua22@gmail.com)  🌐 [Portfolio](https://himeshdua.vercel.app)  💼 [LinkedIn](https://www.linkedin.com/in/HimeshDua)  📁 [GitHub](https://github.com/HimeshDua)
 
 
 <details>
