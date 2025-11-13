@@ -12,8 +12,8 @@ I work mostly with **TypeScript** and **Next.js**, think of them as tools that h
 
 ![Himesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=himeshdua&show_icons=true&theme=radical&hide_title=true)
 
-📫 **Let’s Connect** 🌐 [Portfolio](https://himeshdua.vercel.app) [💼 LinkedIn](https://www.linkedin.com/in/HimeshDua) ✉️ `himeshdua22@gmail.com`
-
 </details>
 
 ---
+
+📫 **Let’s Connect** 🌐 [Portfolio](https://himeshdua.vercel.app) [💼 LinkedIn](https://www.linkedin.com/in/HimeshDua) ✉️ `himeshdua22@gmail.com`
