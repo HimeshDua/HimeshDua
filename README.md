@@ -7,9 +7,9 @@ I work mostly with **TypeScript** and **Next.js**, think of them as tools that h
 
 📫 How to reach me?
 
-[`himeshdua22@gmail.com`](mailto:himeshdua22@gmail.com)
-[Portfolio](https://himeshdua.vercel.app)
-[LinkedIn](https://www.linkedin.com/in/HimeshDua)
+✉️ [`himeshdua22@gmail.com`](mailto:himeshdua22@gmail.com)
+:bowtie: [Portfolio](https://himeshdua.vercel.app)
+💼 [LinkedIn](https://www.linkedin.com/in/HimeshDua)
 [Github](https://github.com/HimeshDua)
 
 <details>
@@ -24,4 +24,4 @@ I work mostly with **TypeScript** and **Next.js**, think of them as tools that h
 
 ---
 
-📫 **Let’s Connect** 🌐 [Portfolio](https://himeshdua.vercel.app) [💼 LinkedIn](https://www.linkedin.com/in/HimeshDua) ✉️ `himeshdua22@gmail.com`
+📫 **Let’s Connect** 🌐 [Portfolio](https://himeshdua.vercel.app)  LinkedIn](https://www.linkedin.com/in/HimeshDua) ✉️ `himeshdua22@gmail.com`
