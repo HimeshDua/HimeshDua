@@ -10,7 +10,7 @@ I work mostly with **TypeScript** and **Next.js**, think of them as tools that h
 [`himeshdua22@gmail.com`](mailto:himeshdua22@gmail.com)
 [Portfolio](https://himeshdua.vercel.app)
 [LinkedIn](https://www.linkedin.com/in/HimeshDua)
-[![github](https://img.shields.io/static/v1?style=flat&label=github&message=Juice&logo=github)](https://github.com/HimeshDua)
+[Github](https://github.com/HimeshDua)
 
 <details>
 <summary>Peek into my coding life</summary>
