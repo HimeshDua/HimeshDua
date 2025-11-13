@@ -4,11 +4,14 @@ I'm **Himesh Dua**, a web developer from Karachi 🇵🇰 who turns ideas into f
 
 I work mostly with **TypeScript** and **Next.js**, think of them as tools that help me build smooth, modern websites that not only _look good_ but also _work perfectly_ behind the scenes.
 
-
 ### 🤝 Let's Connect
 
-✉️ [`himeshdua22@gmail.com`](mailto:himeshdua22@gmail.com)  🌐 [Portfolio](https://himeshdua.vercel.app)  💼 [LinkedIn](https://www.linkedin.com/in/HimeshDua)  📁 [GitHub](https://github.com/HimeshDua)
+✉️ [`himeshdua22@gmail.com`](mailto:himeshdua22@gmail.com) 🌐 [Portfolio](https://himeshdua.vercel.app) 💼 [LinkedIn](https://www.linkedin.com/in/HimeshDua) 📁 [GitHub](https://github.com/HimeshDua)
 
+[![](https://raw.githubusercontent.com/HimeshDua/HimeshDua/main/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/HimeshDua/HimeshDua/main/profile-summary-card-output/default/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/HimeshDua/HimeshDua/main/profile-summary-card-output/default/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/HimeshDua/HimeshDua/main/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 <details>
 <summary>Peek into my coding life</summary>
