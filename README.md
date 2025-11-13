@@ -10,7 +10,7 @@ I work mostly with **TypeScript** and **Next.js**, think of them as tools that h
 ✉️ [`himeshdua22@gmail.com`](mailto:himeshdua22@gmail.com)
 :bowtie: [Portfolio](https://himeshdua.vercel.app)
 💼 [LinkedIn](https://www.linkedin.com/in/HimeshDua)
-:neckbeard: [Github](https://github.com/HimeshDua)
+:ledger: [Github](https://github.com/HimeshDua)
 
 <details>
 <summary>Peek into my coding life</summary>
