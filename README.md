@@ -4,6 +4,13 @@ I'm **Himesh Dua**, a web developer from Karachi 🇵🇰 who turns ideas into f
 
 I work mostly with **TypeScript** and **Next.js**, think of them as tools that help me build smooth, modern websites that not only _look good_ but also _work perfectly_ behind the scenes.
 
+
+📫 How to reach me?
+
+[![✉️ `himeshdua22@gmail.com`](mailto:himeshdua22@gmail.com)
+[![[💼 LinkedIn](https://www.linkedin.com/in/HimeshDua)
+[![github](https://img.shields.io/static/v1?style=flat&label=github&message=Juice&logo=github)](https://github.com/HimeshDua)
+
 <details>
 <summary>Peek into my coding life</summary>
 <br />
