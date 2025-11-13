@@ -1,41 +1,34 @@
-# Hi, I'm Himesh Dua 👋
+### Hi there ~ <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
 
-> Full-Stack Developer | Web & AI Enthusiast | Karachi, Pakistan 🇵🇰
+I'm **Himesh Dua**, a web developer from Karachi 🇵🇰 who turns ideas into fast, beautiful, and reliable web experiences.
 
-I build high-quality, modern web apps — clean UI, powerful backend, and smooth UX.  
-My stack: **Next.js**, **React.js**, **Prisma ORM**, **Express.js**, **MongoDB**, **Tailwind**, and **TypeScript**.
+I work mostly with **TypeScript** and **Next.js** — think of them as tools that help me build smooth, modern websites that not only *look good* but also *work perfectly* behind the scenes.
 
----
+> Clean design. Smart code. Real impact.
 
-### 🚀 Tech Stack
+<details>
+<summary>⚡️ Peek into my work</summary>
+<br />
 
-- 🧠 Languages: `JavaScript`, `TypeScript`, `PHP`
-- 🌐 Frontend: `React`, `Next.js`, `Laravel` , `Tailwind CSS`, `Shadcn UI`
-- 🔧 Backend: `Laravel`, `Node.js`, `Express`, `Next.js API`, `Firebase`, `Prisma`, `Auth.js`, `NextAuth`
-- 💾 Database: `MongoDB`, `Prisma ORM`, `Neon DB`, `MySQL`
-- 🧩 Tools: `VS Code`, `Git`, `Vercel`
-
----
-
-### 🛠️ Recent Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| [Dev Grade](https://devgrade.vercel.app) | Dev Grade analyse github profile and provide a component to showcase it to your portfolio | Next.js 15, MongoDB, Custom Authentication, Shadcn |
-| [Decision Dex](https://decisiondex.vercel.app) | Decision helper with pros/cons and analytics | Next.js 15, Prisma, NextAuth, Shadcn |
-| [Streaksvr](https://streaksvr.vercel.app) | Full-stack streak tracker with task-streak algorithm | Next.js, Prisma, Firebase Auth, Shadcn |
-| [Resserve](https://resserve.vercel.app) | Time reservation & self-accountability platform | Next.js, Prisma, NextAuth, Shadcn |
+### 🚀 Projects
+- [**Dev Grade**](https://devgrade.vercel.app) — Analyze your GitHub and get a portfolio-ready component  
+- [**Decision Dex**](https://decisiondex.vercel.app) — Make better choices with pros, cons & analytics  
+- [**Streaksvr**](https://streaksvr.vercel.app) — Track your daily habits and stay consistent  
+- [**Resserve**](https://resserve.vercel.app) — Book time for what truly matters  
 
 ---
 
+![Himesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=himeshdua&show_icons=true&theme=radical&hide_title=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himeshdua&layout=compact&hide=css,html)
 
-### 📫 Let's Connect
+</details>
 
-- 📧 Email: `himeshdua22@gmail.com`
-- 🧠 [LinkedIn](https://www.linkedin.com/in/himeshdua)
-- 💻 [Portfolio](https://himeshdua.vercel.app)
+---
+
+📫 **Let’s Connect**  
+[🌐 Portfolio](https://himeshdua.vercel.app) [💼 LinkedIn](https://www.linkedin.com/in/himeshdua) ✉️ `himeshdua22@gmail.com`
 
 ---
 
 > “Discipline beats talent — I’m here every day, building better.”  
-> — Himesh Dua
+> — *Himesh Dua*
