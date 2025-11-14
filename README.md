@@ -8,9 +8,6 @@ I work mostly with **TypeScript** and **Next.js**, think of them as tools that h
 
 ✉️ [`himeshdua22@gmail.com`](mailto:himeshdua22@gmail.com) 🌐 [Portfolio](https://himeshdua.vercel.app) 💼 [LinkedIn](https://www.linkedin.com/in/HimeshDua) 📁 [GitHub](https://github.com/HimeshDua)
 
-![Himesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=HimeshDua&show_icons=true&theme=radical)
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HimeshDua&theme=dracula)
-
 ### ⏰ When I Code Most
 
 ![Metrics](https://github.com/HimeshDua/HimeshDua/blob/main/github-metrics.svg)
