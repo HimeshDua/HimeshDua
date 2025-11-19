@@ -8,11 +8,13 @@ I work mostly with **TypeScript** and **Next.js**, think of them as tools that h
 
 ✉️ [`himeshdua22@gmail.com`](mailto:himeshdua22@gmail.com) 🌐 [Portfolio](https://himeshdua.vercel.app) 💼 [LinkedIn](https://www.linkedin.com/in/HimeshDua) 📁 [GitHub](https://github.com/HimeshDua)
 
-### ⏰ Languages I Code Most
+
 <details>
 <summary>Peek into my coding life</summary>
 <br />
 
+  ### ⏰ Languages I Code Most
+  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himeshdua&layout=compact&hide=css,html)
 
 </details>
