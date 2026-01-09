@@ -14,9 +14,4 @@ I work mostly with **TypeScript** and **Next.js**, think of them as tools that h
 <br />
 
 [![light's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=himeshdua&theme=high-contrast)](https://github.com/himeshdua/github-readme-activity-graph)
-
-  ### ⏰ Languages I Code Most
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himeshdua&layout=compact&hide=css,html)
-
 </details>
