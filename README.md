@@ -9,6 +9,10 @@ I work mostly with **TypeScript** and **Next.js**, think of them as tools that h
 ✉️ [`himeshdua22@gmail.com`](mailto:himeshdua22@gmail.com) 🌐 [Portfolio: himeshdua.vercel.app](https://himeshdua.vercel.app)  💼 [LinkedIn: HimeshDua](https://www.linkedin.com/in/HimeshDua) 📁 [GitHub: HimeshDua](https://github.com/HimeshDua)
 
 
+# personal projects tier list
+
+![My personal projects tierlist](assets/tierlist.webp)
+
 <details>
 <summary>Peek into my coding life</summary>
 <br />
