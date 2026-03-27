@@ -9,13 +9,13 @@ I work mostly with **TypeScript** and **Next.js**, think of them as tools that h
 ✉️ [`himeshdua22@gmail.com`](mailto:himeshdua22@gmail.com) 🌐 [Portfolio: himeshdua.vercel.app](https://himeshdua.vercel.app)  💼 [LinkedIn: HimeshDua](https://www.linkedin.com/in/HimeshDua) 📁 [GitHub: HimeshDua](https://github.com/HimeshDua)
 
 
-# personal projects tier list
+# Personal Projects Tier List
 
 ![My personal projects tierlist](assets/tierlist.webp)
 
-<details>
+<!-- <details>
 <summary>Peek into my coding life</summary>
 <br />
 
 [![light's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=himeshdua&theme=high-contrast)](https://github.com/himeshdua/github-readme-activity-graph)
-</details>
+</details> -->
