@@ -28,9 +28,7 @@ jobs:
 
           config_timezone: Asia/Karachi
 
-          plugin_languages: yes
-          plugin_languages_limit: 4
-
+          plugin_languages: no
           plugin_activity: no
           plugin_community: no
           plugin_habits: no
