@@ -12,6 +12,8 @@ I work mostly with **TypeScript** and **Next.js**, think of them as tools that h
 
 <!--END_SECTION:waka-->
 
+![Metrics](/github-metrics.svg)
+
 # Personal Projects Tier List
 
 ![My personal projects tierlist](assets/tierlist.webp)
