@@ -34,15 +34,14 @@ Recently, I've been building projects around:
 
 ![Metrics](/github-metrics.svg)
 
-# Personal Projects Tier List
+<!-- # Personal Projects Tier List
 
-<!-- ![My personal projects tierlist](assets/tierlist.webp) -->
+ ![My personal projects tierlist](assets/tierlist.webp) -->
 
 
-<!-- <details>
+<details>
 <summary>Peek into my coding life</summary>
 <br />
 
 [![light's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=himeshdua&theme=high-contrast)](https://github.com/himeshdua/github-readme-activity-graph)
-</details> -->
-
+</details>
