@@ -19,17 +19,9 @@ Recently, I've been building projects around:
 <!--END_SECTION:waka-->
 
 ---
-
 ### 🤝 Connect With Me
 
-✉️ [`himeshdua22@gmail.com`](mailto:himeshdua22@gmail.com)
-
-🌐 [Portfolio](https://himeshdua.vercel.app)
-
-💼 [LinkedIn](https://www.linkedin.com/in/HimeshDua)
-
-📁 [GitHub](https://github.com/HimeshDua)
-
+✉️ [`himeshdua22@gmail.com`](mailto:himeshdua22@gmail.com) • 🌐 [Portfolio](https://himeshdua.vercel.app) • 💼 [LinkedIn](https://www.linkedin.com/in/HimeshDua) • 📁 [GitHub](https://github.com/HimeshDua)
 ---
 
 ![Metrics](/github-metrics.svg)
