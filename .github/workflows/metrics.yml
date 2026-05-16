@@ -2,12 +2,20 @@ name: Metrics
 
 on:
   schedule:
-    - cron: "0 * * * *"
+    - cron: "0 0 * * *"
+
   workflow_dispatch:
+
+  push:
+    branches:
+      - "main"
 
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+
+    environment:
+      name: production
 
     permissions:
       contents: write
@@ -19,20 +27,9 @@ jobs:
 
           user: HimeshDua
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, repositories
 
           config_timezone: Asia/Karachi
 
           plugin_languages: yes
-          plugin_languages_limit: 6
-          plugin_languages_sections: most-used
-          plugin_languages_indepth: no
-
-          plugin_isocalendar: no
-          plugin_habits: no
-          plugin_followup: no
-          plugin_topics: no
-          plugin_stars: no
-          plugin_people: no
-          plugin_repositories: no
-          plugin_activity: no
+          plugin_languages_limit: 4
