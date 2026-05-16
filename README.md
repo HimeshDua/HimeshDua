@@ -18,14 +18,15 @@ Recently, I've been building projects around:
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
----
-### 🤝 Connect With Me
-
-✉️ [`himeshdua22@gmail.com`](mailto:himeshdua22@gmail.com) • 🌐 [Portfolio](https://himeshdua.vercel.app) • 💼 [LinkedIn](https://www.linkedin.com/in/HimeshDua) • 📁 [GitHub](https://github.com/HimeshDua)
----
-
 ![Metrics](/github-metrics.svg)
 
+---
+
+🤝 **Connect With Me**
+
+✉️ [`himeshdua22@gmail.com`](mailto:himeshdua22@gmail.com) • 🌐 [Portfolio](https://himeshdua.vercel.app) • 💼 [LinkedIn](https://www.linkedin.com/in/HimeshDua) • 📁 [GitHub](https://github.com/HimeshDua)
+
+---
 <!-- # Personal Projects Tier List
 
  ![My personal projects tierlist](assets/tierlist.webp) -->
