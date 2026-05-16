@@ -14,9 +14,6 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
 
-    environment:
-      name: production
-
     permissions:
       contents: write
 
@@ -27,9 +24,19 @@ jobs:
 
           user: HimeshDua
           template: classic
-          base: header, repositories
+          base: header
 
           config_timezone: Asia/Karachi
 
           plugin_languages: yes
           plugin_languages_limit: 4
+
+          plugin_activity: no
+          plugin_community: no
+          plugin_habits: no
+          plugin_isocalendar: no
+          plugin_people: no
+          plugin_stars: no
+          plugin_topics: no
+          plugin_followup: no
+          plugin_repositories: no
