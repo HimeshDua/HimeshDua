@@ -16,6 +16,15 @@ Recently, I've been building projects around:
 ### 📊 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
+
+```txt
+TypeScript   1 hr 56 mins          █████████████▓░░░░░░░░░░░   54.88 %
+Other        1 hr 6 mins           ████████░░░░░░░░░░░░░░░░░   31.35 %
+JavaScript   26 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.65 %
+JSON         2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
+Markdown     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+```
+
 <!--END_SECTION:waka-->
 
 ![Metrics](/github-metrics.svg)
