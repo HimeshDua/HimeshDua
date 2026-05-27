@@ -5,11 +5,10 @@ I'm **Himesh Dua**, a web developer from Karachi 🇵🇰 who turns ideas into f
 I work mostly with **TypeScript** and **Next.js**, think of them as tools that help me build smooth, modern websites that not only _look good_ but also _work perfectly_ behind the scenes.
 
 Recently, I've been building projects around:
-- city-guide platforms
+- EHR system on web with Convex and NEXT.js
+- city-guide mobile platform 
 - developer tooling
 - dashboards & admin systems
-- AI-assisted workflows
-- full-stack SaaS products
 
 ---
 
