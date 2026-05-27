@@ -35,6 +35,3 @@ Git Config   27 mins               ▒░░░░░░░░░░░░░░
 ✉️ [`himeshdua22@gmail.com`](mailto:himeshdua22@gmail.com) • 🌐 [Portfolio](https://himeshdua.vercel.app) • 💼 [LinkedIn](https://www.linkedin.com/in/HimeshDua) • 📁 [GitHub](https://github.com/HimeshDua)
 
 ---
-<!-- # Personal Projects Tier List
-
- ![My personal projects tierlist](assets/tierlist.webp) -->
