@@ -30,6 +30,9 @@ Git Config   27 mins               ▒░░░░░░░░░░░░░░
 
 I care deeply about UI clarity, system thinking, and building products people actually enjoy using.
 
+
+✉️ [`himeshdua22@gmail.com`](mailto:himeshdua22@gmail.com) • 🌐 [Portfolio](https://himeshdua.vercel.app) • 💼 [LinkedIn](https://www.linkedin.com/in/HimeshDua)
+
 <!-- ![Metrics](/github-metrics.svg)
 
 🤝 **Connect With Me**
