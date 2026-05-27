@@ -2,13 +2,14 @@
 
 I'm **Himesh Dua**, a web developer from Karachi 🇵🇰 who turns ideas into fast, beautiful, and reliable web experiences.
 
-I work mostly with **TypeScript** and **Next.js**, think of them as tools that help me build smooth, modern websites that not only _look good_ but also _work perfectly_ behind the scenes.
+Most of my work revolves around TypeScript and Next.js, building interfaces that feel simple on the surface while handling complex workflows underneath.
 
 Recently, I've been building projects around:
-- EHR system on web with Convex and NEXT.js
-- city-guide mobile platform 
-- developer tooling
-- dashboards & admin systems
+- AI-powered EHR and clinic workflow systems
+- operational dashboards and admin platforms
+- developer tooling and automation
+- mobile city-guide applications
+- high-performance landing pages
 
 ---
 
@@ -27,13 +28,15 @@ Git Config   27 mins               ▒░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 
+I care deeply about UI clarity, system thinking, and building products people actually enjoy using.
 
 ---
 
-![Metrics](/github-metrics.svg)
+<!-- ![Metrics](/github-metrics.svg)
 
 🤝 **Connect With Me**
 
 ✉️ [`himeshdua22@gmail.com`](mailto:himeshdua22@gmail.com) • 🌐 [Portfolio](https://himeshdua.vercel.app) • 💼 [LinkedIn](https://www.linkedin.com/in/HimeshDua) • 📁 [GitHub](https://github.com/HimeshDua)
 
 ---
+--> 
