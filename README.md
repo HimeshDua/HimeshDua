@@ -30,8 +30,6 @@ Git Config   27 mins               ▒░░░░░░░░░░░░░░
 
 I care deeply about UI clarity, system thinking, and building products people actually enjoy using.
 
----
-
 <!-- ![Metrics](/github-metrics.svg)
 
 🤝 **Connect With Me**
