@@ -13,7 +13,7 @@ Recently, I've been building projects around:
 
 ---
 
-### 📊 Weekly Development Breakdown
+### Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
 
@@ -39,11 +39,3 @@ Git Config   27 mins               ▒░░░░░░░░░░░░░░
 <!-- # Personal Projects Tier List
 
  ![My personal projects tierlist](assets/tierlist.webp) -->
-
-
-<details>
-<summary>Peek into my coding life</summary>
-<br />
-
-[![light's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=himeshdua&theme=high-contrast)](https://github.com/himeshdua/github-readme-activity-graph)
-</details>
