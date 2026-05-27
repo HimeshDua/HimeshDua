@@ -26,8 +26,6 @@ Git Config   27 mins               ▒░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-![Metrics](/github-metrics.svg)
-
 ---
 
 🤝 **Connect With Me**
