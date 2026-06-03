@@ -18,11 +18,7 @@ Recently, I've been building projects around:
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   1 hr 15 mins          █████████████████░░░░░░░░   67.82 %
-Git Config   11 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.05 %
-Markdown     10 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.74 %
-Other        5 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.27 %
-Dart         4 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
