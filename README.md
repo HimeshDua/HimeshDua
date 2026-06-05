@@ -18,7 +18,10 @@ Recently, I've been building projects around:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+TypeScript   17 hrs 53 mins        ██████████████████████▓░░   90.02 %
+Markdown     1 hr 11 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.04 %
+Other        42 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 %
+CSS          4 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
 ```
 
 <!--END_SECTION:waka-->
