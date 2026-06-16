@@ -18,11 +18,11 @@ Recently, I've been building projects around:
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   27 hrs 31 mins        █████████████████▓░░░░░░░   70.80 %
-Markdown     6 hrs 51 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.65 %
-Other        1 hr 22 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 %
-JSON         1 hr 1 min            ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
-MDX          58 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
+TypeScript   27 hrs 46 mins        █████████████████▓░░░░░░░   70.08 %
+Markdown     7 hrs 36 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.18 %
+JSON         1 hr 8 mins           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 %
+MDX          58 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
+Other        46 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
 ```
 
 <!--END_SECTION:waka-->
