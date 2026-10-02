@@ -18,11 +18,11 @@ Recently, I've been building projects around:
 <!--START_SECTION:waka-->
 
 ```txt
-Python       42 mins               ███████████▓░░░░░░░░░░░░░   46.72 %
-TypeScript   22 mins               ██████░░░░░░░░░░░░░░░░░░░   24.16 %
-Bash         15 mins               ████░░░░░░░░░░░░░░░░░░░░░   16.54 %
-JavaScript   10 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.69 %
-JSON         0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
+Python       42 mins               ██████████████▒░░░░░░░░░░   56.73 %
+TypeScript   16 mins               █████▓░░░░░░░░░░░░░░░░░░░   22.38 %
+Bash         14 mins               █████░░░░░░░░░░░░░░░░░░░░   19.80 %
+JSON         0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
+Markdown     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 ```
 
 <!--END_SECTION:waka-->
