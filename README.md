@@ -18,11 +18,7 @@ Recently, I've been building projects around:
 <!--START_SECTION:waka-->
 
 ```txt
-Python       42 mins               ██████████████▒░░░░░░░░░░   56.73 %
-TypeScript   16 mins               █████▓░░░░░░░░░░░░░░░░░░░   22.38 %
-Bash         14 mins               █████░░░░░░░░░░░░░░░░░░░░   19.80 %
-JSON         0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
-Markdown     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+TypeScript   0 secs                █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
